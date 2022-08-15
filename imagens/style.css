@@ -121,7 +121,7 @@ div#gold{
 
 }
 
-div#platinum{
+div#Platinum{
     background-image: url('platinum.png');
     background-size: 100%;
     background-position: center center;
@@ -129,8 +129,16 @@ div#platinum{
 
 }
 
-div#sem_medalha{
-    background-image: url('lider.png');
+div#ERP{
+    background-image: url('erp\ \(1\).png');
+    background-size: 100%;
+    background-position: center center;
+    background-repeat: no-repeat; 
+
+}
+
+div#mercado{
+    background-image: url('analise_mercado.png');
     background-size: 100%;
     background-position: center center;
     background-repeat: no-repeat; 
